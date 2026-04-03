@@ -1,7 +1,11 @@
 {
-  "owner": "WashingtonPires3246",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "washington-skills",
   "description": "Skills personalizadas A2 Mídias Digitais",
+  "owner": {
+    "name": "WashingtonPires3246",
+    "email": "seu-email@gmail.com"
+  },
   "plugins": [
     {
       "id": "n8n-workflow-builder",
