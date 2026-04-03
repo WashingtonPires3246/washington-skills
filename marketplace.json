@@ -1,0 +1,11 @@
+{
+  "name": "washington-skills",
+  "description": "Skills personalizadas A2 Mídias Digitais",
+  "skills": [
+    "n8n-workflow-builder",
+    "instagram-persona-writer",
+    "proposal-writer",
+    "meta-ads-copy",
+    "funil-conversacional"
+  ]
+}
