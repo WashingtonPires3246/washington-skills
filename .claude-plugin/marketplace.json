@@ -1,0 +1,36 @@
+{
+  "name": "washington-skills",
+  "description": "Skills personalizadas A2 Mídias Digitais",
+  "plugins": [
+    {
+      "id": "n8n-workflow-builder",
+      "name": "n8n Workflow Builder",
+      "description": "Cria fluxos completos para n8n prontos para importar",
+      "source": "./n8n-workflow-builder"
+    },
+    {
+      "id": "instagram-persona-writer",
+      "name": "Instagram Persona Writer",
+      "description": "Escreve conteúdo para Instagram no estilo do cliente",
+      "source": "./instagram-persona-writer"
+    },
+    {
+      "id": "proposal-writer",
+      "name": "Proposal Writer",
+      "description": "Cria propostas comerciais profissionais em Word",
+      "source": "./proposal-writer"
+    },
+    {
+      "id": "meta-ads-copy",
+      "name": "Meta Ads Copy",
+      "description": "Cria copy para anúncios no Meta Ads com lógica Advantage+",
+      "source": "./meta-ads-copy"
+    },
+    {
+      "id": "funil-conversacional",
+      "name": "Funil Conversacional",
+      "description": "Scripts de conversa para funis automatizados via DM e WhatsApp",
+      "source": "./funil-conversacional"
+    }
+  ]
+}
